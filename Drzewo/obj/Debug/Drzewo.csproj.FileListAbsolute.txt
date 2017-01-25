@@ -1,0 +1,5 @@
+C:\Users\Ja\RiderProjects\Zadania na Kolokwium\Drzewo\bin\Debug\Drzewo.exe
+C:\Users\Ja\RiderProjects\Zadania na Kolokwium\Drzewo\bin\Debug\Drzewo.pdb
+C:\Users\Ja\RiderProjects\Zadania na Kolokwium\Drzewo\obj\Debug\Drzewo.csprojResolveAssemblyReference.cache
+C:\Users\Ja\RiderProjects\Zadania na Kolokwium\Drzewo\obj\Debug\Drzewo.exe
+C:\Users\Ja\RiderProjects\Zadania na Kolokwium\Drzewo\obj\Debug\Drzewo.pdb

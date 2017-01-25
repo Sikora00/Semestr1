@@ -1,0 +1,5 @@
+C:\Users\Ja\RiderProjects\Zadania na Kolokwium\PD\bin\Debug\PD.exe
+C:\Users\Ja\RiderProjects\Zadania na Kolokwium\PD\bin\Debug\PD.pdb
+C:\Users\Ja\RiderProjects\Zadania na Kolokwium\PD\obj\Debug\PD.csprojResolveAssemblyReference.cache
+C:\Users\Ja\RiderProjects\Zadania na Kolokwium\PD\obj\Debug\PD.exe
+C:\Users\Ja\RiderProjects\Zadania na Kolokwium\PD\obj\Debug\PD.pdb

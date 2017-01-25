@@ -1,0 +1,5 @@
+C:\Users\Ja\RiderProjects\Zadania na Kolokwium\Lista\bin\Debug\Lista.exe
+C:\Users\Ja\RiderProjects\Zadania na Kolokwium\Lista\bin\Debug\Lista.pdb
+C:\Users\Ja\RiderProjects\Zadania na Kolokwium\Lista\obj\Debug\Lista.csprojResolveAssemblyReference.cache
+C:\Users\Ja\RiderProjects\Zadania na Kolokwium\Lista\obj\Debug\Lista.exe
+C:\Users\Ja\RiderProjects\Zadania na Kolokwium\Lista\obj\Debug\Lista.pdb

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29617420-8175-4d49-a4a8-6169e1f097c6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Zadania na Kolokwium/.idea/vcs.xml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PD/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="175" selection-end-column="9" />
+              <folding>
+                <marker date="1485297752314" expanded="true" signature="6:64" ph="..." />
+                <marker date="1485297752314" expanded="true" signature="78:9980" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="107:9978" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="149:635" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="242:305" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="527:601" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="671:1287" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="789:1051" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="862:965" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="1327:1841" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="1426:1626" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="1880:2528" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="1987:2051" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="2167:2231" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="2565:2865" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="2649:2831" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="2699:2777" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="2911:3180" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="3066:3145" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="3221:3702" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="3321:3558" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="3434:3544" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="3900:4141" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="4151:4461" ph="/* Stwórz funkcję string Konwersja(int system1, int system2, string liczba), która dokonuje konwersji liczby z do ... */" />
+                <marker date="1485297752314" expanded="true" signature="4628:4710" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="4790:5124" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="4909:5071" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="5242:5456" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="5336:5418" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="5515:6018" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="6028:6327" ph="/* Stwórz strukturę Adres o polach: ulica, numer, kod pocztowy. Stwórz strukturę Klient o polach: ... */" />
+                <marker date="1485297752314" expanded="true" signature="6334:8906" ph="/* struct Adres ... */" />
+                <marker date="1485297752314" expanded="true" signature="8953:9972" ph="{...}" />
+                <marker date="1485297752314" expanded="true" signature="8976:9689" ph="/* int[] tab = {10, 25, 30, 0, 100}; ... */" />
+                <marker date="1485297752314" expanded="true" signature="9780:9962" ph="/* Adres adres1 = new Adres(&quot;Mickiewicza 2&quot;, &quot;08-110&quot;, 64562487); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lista/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret line="41" column="34" lean-forward="false" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+              <folding>
+                <marker date="1485295158263" expanded="true" signature="6:47" ph="..." />
+                <marker date="1485295158263" expanded="true" signature="64:3147" ph="{...}" />
+                <marker date="1485295158263" expanded="true" signature="93:3145" ph="{...}" />
+                <marker date="1485295158263" expanded="true" signature="119:429" ph="{...}" />
+                <marker date="1485295158263" expanded="true" signature="235:303" ph="{...}" />
+                <marker date="1485295158263" expanded="true" signature="338:419" ph="{...}" />
+                <marker date="1485295158263" expanded="true" signature="450:2685" ph="{...}" />
+                <marker date="1485295158263" expanded="true" signature="551:638" ph="{...}" />
+                <marker date="1485295158263" expanded="true" signature="671:802" ph="{...}" />
+                <marker date="1485295158263" expanded="true" signature="838:1052" ph="{...}" />
+                <marker date="1485295158263" expanded="true" signature="966:1038" ph="{...}" />
+                <marker date="1485295158263" expanded="true" signature="1098:1210" ph="{...}" />
+                <marker date="1485295158263" expanded="true" signature="1255:1641" ph="{...}" />
+                <marker date="1485295158263" expanded="true" signature="1347:1627" ph="{...}" />
+                <marker date="1485295158263" expanded="true" signature="1455:1545" ph="{...}" />
+                <marker date="1485295158263" expanded="true" signature="1685:2286" ph="{...}" />
+                <marker date="1485295158263" expanded="true" signature="1838:1980" ph="{...}" />
+                <marker date="1485295158263" expanded="true" signature="2023:2208" ph="{...}" />
+                <marker date="1485295158263" expanded="true" signature="2337:2482" ph="{...}" />
+                <marker date="1485295158263" expanded="true" signature="2533:2675" ph="{...}" />
+                <marker date="1485295158263" expanded="true" signature="2734:3139" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Drzewo/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="53" column="13" lean-forward="true" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+              <folding>
+                <marker date="1485298014868" expanded="true" signature="6:47" ph="..." />
+                <marker date="1485298014868" expanded="true" signature="65:2125" ph="{...}" />
+                <marker date="1485298014868" expanded="true" signature="94:2123" ph="{...}" />
+                <marker date="1485298014868" expanded="true" signature="120:1046" ph="{...}" />
+                <marker date="1485298014868" expanded="true" signature="264:332" ph="{...}" />
+                <marker date="1485298014868" expanded="true" signature="376:797" ph="{...}" />
+                <marker date="1485298014868" expanded="true" signature="435:600" ph="{...}" />
+                <marker date="1485298014868" expanded="true" signature="621:783" ph="{...}" />
+                <marker date="1485298014868" expanded="true" signature="833:1036" ph="{...}" />
+                <marker date="1485298014868" expanded="true" signature="1068:1703" ph="{...}" />
+                <marker date="1485298014868" expanded="true" signature="1140:1199" ph="{...}" />
+                <marker date="1485298014868" expanded="true" signature="1240:1357" ph="{...}" />
+                <marker date="1485298014868" expanded="true" signature="1401:1594" ph="{...}" />
+                <marker date="1485298014868" expanded="true" signature="1502:1580" ph="{...}" />
+                <marker date="1485298014868" expanded="true" signature="1630:1693" ph="{...}" />
+                <marker date="1485298014868" expanded="true" signature="1751:2117" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Lista/Program.cs" />
+        <option value="$PROJECT_DIR$/PD/Program.cs" />
+        <option value="$PROJECT_DIR$/Drzewo/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zadania na Kolokwium (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PD" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zadania na Kolokwium (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lista" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zadania na Kolokwium (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+  </component>
+  <component name="RunManager" selected=".NET Project.Drzewo">
+    <configuration default="false" name="Lista" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Lista/Lista.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="Default" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Lista/bin/Debug/Lista.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lista/bin/Debug" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PD" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PD/PD.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="Default" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/PD/bin/Debug/PD.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PD/bin/Debug" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Drzewo" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Drzewo/Drzewo.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="Default" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Drzewo/bin/Debug/Drzewo.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Drzewo/bin/Debug" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PD/PD.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="Default" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/PD/bin/Debug/PD.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PD/bin/Debug" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+      <item index="1" class="java.lang.String" itemvalue=".NET Project.Lista" />
+      <item index="2" class="java.lang.String" itemvalue=".NET Project.PD" />
+      <item index="3" class="java.lang.String" itemvalue=".NET Project.Drzewo" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.Drzewo" />
+        <item index="1" class="java.lang.String" itemvalue=".NET Project.PD" />
+        <item index="2" class="java.lang.String" itemvalue=".NET Project.Lista" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29617420-8175-4d49-a4a8-6169e1f097c6" name="Default" comment="" />
+      <created>1485268936868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1485268936868</updated>
+      <workItem from="1485268941846" duration="22426000" />
+    </task>
+    <task id="LOCAL-00001" summary="Pierwsze Kolokwium Informatyka SGGW&#10;">
+      <created>1485289850330</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1485289850330</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Pierwsze Kolokwium Informatyka SGGW&#10;">
+      <created>1485294792503</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1485294792503</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22426000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294621" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32997763" sideWeight="0.502445" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32997763" sideWeight="0.49755502" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32997763" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32997763" sideWeight="0.502445" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25305623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32997763" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pierwsze Kolokwium Informatyka SGGW&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pierwsze Kolokwium Informatyka SGGW&#10;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lista/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="41" column="34" lean-forward="false" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+          <folding>
+            <marker date="1485295158263" expanded="true" signature="6:47" ph="..." />
+            <marker date="1485295158263" expanded="true" signature="64:3147" ph="{...}" />
+            <marker date="1485295158263" expanded="true" signature="93:3145" ph="{...}" />
+            <marker date="1485295158263" expanded="true" signature="119:429" ph="{...}" />
+            <marker date="1485295158263" expanded="true" signature="235:303" ph="{...}" />
+            <marker date="1485295158263" expanded="true" signature="338:419" ph="{...}" />
+            <marker date="1485295158263" expanded="true" signature="450:2685" ph="{...}" />
+            <marker date="1485295158263" expanded="true" signature="551:638" ph="{...}" />
+            <marker date="1485295158263" expanded="true" signature="671:802" ph="{...}" />
+            <marker date="1485295158263" expanded="true" signature="838:1052" ph="{...}" />
+            <marker date="1485295158263" expanded="true" signature="966:1038" ph="{...}" />
+            <marker date="1485295158263" expanded="true" signature="1098:1210" ph="{...}" />
+            <marker date="1485295158263" expanded="true" signature="1255:1641" ph="{...}" />
+            <marker date="1485295158263" expanded="true" signature="1347:1627" ph="{...}" />
+            <marker date="1485295158263" expanded="true" signature="1455:1545" ph="{...}" />
+            <marker date="1485295158263" expanded="true" signature="1685:2286" ph="{...}" />
+            <marker date="1485295158263" expanded="true" signature="1838:1980" ph="{...}" />
+            <marker date="1485295158263" expanded="true" signature="2023:2208" ph="{...}" />
+            <marker date="1485295158263" expanded="true" signature="2337:2482" ph="{...}" />
+            <marker date="1485295158263" expanded="true" signature="2533:2675" ph="{...}" />
+            <marker date="1485295158263" expanded="true" signature="2734:3139" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PD/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="175" selection-end-column="9" />
+          <folding>
+            <marker date="1485297752314" expanded="true" signature="6:64" ph="..." />
+            <marker date="1485297752314" expanded="true" signature="78:9980" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="107:9978" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="149:635" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="242:305" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="527:601" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="671:1287" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="789:1051" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="862:965" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="1327:1841" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="1426:1626" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="1880:2528" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="1987:2051" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="2167:2231" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="2565:2865" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="2649:2831" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="2699:2777" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="2911:3180" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="3066:3145" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="3221:3702" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="3321:3558" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="3434:3544" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="3900:4141" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="4151:4461" ph="/* Stwórz funkcję string Konwersja(int system1, int system2, string liczba), która dokonuje konwersji liczby z do ... */" />
+            <marker date="1485297752314" expanded="true" signature="4628:4710" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="4790:5124" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="4909:5071" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="5242:5456" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="5336:5418" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="5515:6018" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="6028:6327" ph="/* Stwórz strukturę Adres o polach: ulica, numer, kod pocztowy. Stwórz strukturę Klient o polach: ... */" />
+            <marker date="1485297752314" expanded="true" signature="6334:8906" ph="/* struct Adres ... */" />
+            <marker date="1485297752314" expanded="true" signature="8953:9972" ph="{...}" />
+            <marker date="1485297752314" expanded="true" signature="8976:9689" ph="/* int[] tab = {10, 25, 30, 0, 100}; ... */" />
+            <marker date="1485297752314" expanded="true" signature="9780:9962" ph="/* Adres adres1 = new Adres(&quot;Mickiewicza 2&quot;, &quot;08-110&quot;, 64562487); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Drzewo/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="53" column="13" lean-forward="true" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+          <folding>
+            <marker date="1485298014868" expanded="true" signature="6:47" ph="..." />
+            <marker date="1485298014868" expanded="true" signature="65:2125" ph="{...}" />
+            <marker date="1485298014868" expanded="true" signature="94:2123" ph="{...}" />
+            <marker date="1485298014868" expanded="true" signature="120:1046" ph="{...}" />
+            <marker date="1485298014868" expanded="true" signature="264:332" ph="{...}" />
+            <marker date="1485298014868" expanded="true" signature="376:797" ph="{...}" />
+            <marker date="1485298014868" expanded="true" signature="435:600" ph="{...}" />
+            <marker date="1485298014868" expanded="true" signature="621:783" ph="{...}" />
+            <marker date="1485298014868" expanded="true" signature="833:1036" ph="{...}" />
+            <marker date="1485298014868" expanded="true" signature="1068:1703" ph="{...}" />
+            <marker date="1485298014868" expanded="true" signature="1140:1199" ph="{...}" />
+            <marker date="1485298014868" expanded="true" signature="1240:1357" ph="{...}" />
+            <marker date="1485298014868" expanded="true" signature="1401:1594" ph="{...}" />
+            <marker date="1485298014868" expanded="true" signature="1502:1580" ph="{...}" />
+            <marker date="1485298014868" expanded="true" signature="1630:1693" ph="{...}" />
+            <marker date="1485298014868" expanded="true" signature="1751:2117" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
